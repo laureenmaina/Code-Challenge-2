@@ -4,7 +4,6 @@ By Laurine Maina
 Description
 It's a webpage that shows different types of tests about functions like arrow functions, arrays,array methods,loops and swap case method in JavaScript
 
-```
 
 # Live Link
 [Git](main)
