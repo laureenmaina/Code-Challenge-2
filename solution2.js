@@ -7,7 +7,7 @@ function Numbers(num1,num2) {   // allowed to enter two parameters, num1 and num
         }
     }else {
         for (let i = num1; i >= num2; i--) {  // num1 should be equal to i so that it starts iterating from the number
-                                              //if i is less than or equal to num2, it should increment
+                                              //if i is greater than or equal to num2, it should decrement
             newNum.push(i);                   // The i is then added in the newNum array
         }
     }
